@@ -8,10 +8,12 @@
 
 - No server management is necessary
 - Simplified backend code (FaaS)
-- Serverless architectures are inherently scalable
+- Serverless architectures are scalable. With technologies that automatically scale from zero to peak demands, you can           adapt to customer needs faster than ever.
 - Quick deployments and updates are possible
-- Serverless computing is generally very cost-effective. It significantly reduces server cost (70-90%), because you don’t pay     for idle
+- Serverless computing is generally very cost-effective. It significantly reduces server cost (70-90%), because you don’t pay     for idle. With a pay-for-value billing model, you never pay for over-provisioning and your resource utilization is optimized   on your behalf.
 - It eliminates server maintenance
+- By eliminating operational overhead, your team can release quickly, get feedback, and iterate to get to market faster.
+- Build better applications, easier. Serverless applications have built-in service integrations, so you can focus on building     your application instead of configuring it.
 
 ## Why not serverless
 
