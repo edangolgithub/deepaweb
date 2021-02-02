@@ -7,7 +7,7 @@ function sun()
   {
       alert("bye")
   }
-  function
+  //wektjowoitfgewrjiowrjtgw
   
   
 
@@ -37,4 +37,4 @@ function sun()
 
 
 
-  
+
